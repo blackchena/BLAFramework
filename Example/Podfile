@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BLAFramework_Example' do
+  pod 'BLAFramework', :path => '../'
+
+  target 'BLAFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
