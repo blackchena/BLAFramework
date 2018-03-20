@@ -1,0 +1,16 @@
+PODS:
+  - BLAFramework (0.1.0)
+
+DEPENDENCIES:
+  - BLAFramework (from `../`)
+
+EXTERNAL SOURCES:
+  BLAFramework:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BLAFramework: 6a189ec74dbe2f63599c416135d185d3099a49c9
+
+PODFILE CHECKSUM: 99c824ffc72c58e599c25bd7a83ddae48fcb88f0
+
+COCOAPODS: 1.4.0
